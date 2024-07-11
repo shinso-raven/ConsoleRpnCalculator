@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Optional" Version="4.0.0" />
     <PackageReference Include="RPNCalculator" Version="1.0.10" />
   </ItemGroup>
 
